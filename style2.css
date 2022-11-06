@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(48, 47, 47);
+}
+img{
+    max-width: 100%;
+}
+
+.index-header{
+    width: 100%;
+    
+}
+.index-header-body{
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+.index-header-body{
+    background-color: wheat;
+}
+.index-ul{
+    list-style: none;
+}
+.index-ul a{
+    text-decoration: none;
+}
+.dropdown-center{
+    width: 200px;
+}
+.footer-ul{
+    list-style: none;
+    
+}
+.footer-ul a{
+    color: gray;
+    text-decoration: none;
+}
